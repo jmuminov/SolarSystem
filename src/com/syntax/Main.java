@@ -15,5 +15,8 @@ public class Main {
         mikesun.temp = "60000016518484132";
         mikesun.radius = "9000000000000km";
         mikesun.maritalStatus = "in love with Asghar";
+
+        //addubg Planet 1 features
+        
     }
 }
