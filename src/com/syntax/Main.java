@@ -10,10 +10,10 @@ public class Main {
         andromeda.moon = 4;
 
         featureSun mikesun = new featureSun();
-        mikesun.color = "blue";
-        mikesun.heat = "616516";
-        mikesun.temp = "616516";
-        mikesun.radius = "0.309";
-        mikesun.maritalStatus = "single";
+        mikesun.color = "Red";
+        mikesun.heat = "611115158812132";
+        mikesun.temp = "60000016518484132";
+        mikesun.radius = "9000000000000km";
+        mikesun.maritalStatus = "in love with Asghar";
     }
 }
